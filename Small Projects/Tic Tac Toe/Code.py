@@ -18,7 +18,8 @@ class Player():
                 self.symbol = symbol.upper()
                 break
             print("Invalid symbol.")
-    
+
+
 class Menu():
     def display_main_menu(self):
         menu_text = """
